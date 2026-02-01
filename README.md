@@ -5,14 +5,7 @@
 *DOMAIN*:FRONTEND DEVELOPMENT
 *DURATION*:4 WEEKS
 *MENTOR*:NEELA SANTOSH
-
-
-
-
-
-
-
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6cc09a4f-771f-4a56-842f-24af8624b4d6" />
 ## 🔹 1️⃣ JavaScript Code Description (Functionality)
 
 This **JavaScript code** is responsible for making the chat application **interactive**.
